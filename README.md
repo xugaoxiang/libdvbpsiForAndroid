@@ -1,0 +1,2 @@
+# libdvbpsiForAndroid
+libdvbpsi for android
